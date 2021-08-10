@@ -1,0 +1,10 @@
+{
+  "name": "criando-servidor",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "author": "Bruno Gonçalves Pereira <bruno.g.p897@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "node": "^16.6.1"
+  }
+}
